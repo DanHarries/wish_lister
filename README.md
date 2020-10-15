@@ -7,4 +7,6 @@ Get a persons wish list from Amazon
 - [GoColly](https://github.com/gocolly/colly)
 
 #### To Do:
+- [ ] Paging
+- [ ] Save to CSV
 - [ ] Add MUX
